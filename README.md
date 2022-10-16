@@ -1,6 +1,3 @@
 # MachineLearning
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinothmdev/MachineLearning.git/HEAD)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/vinothmdev/MachineLearning.git/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vinothmdev/MachineLearning.git/HEAD
